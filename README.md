@@ -14,7 +14,7 @@
 
 Рисунок 17.2 - Окно Scene  
 
-![РИСУНОК]https://gspics.org/images/2022/12/03/0XbgHI.png)  
+![РИСУНОК](https://gspics.org/images/2022/12/03/0XbgHI.png)  
 
 Рисунок 17.3 - Окно Game  
 
